@@ -1,0 +1,4 @@
+#bovino{
+	height: 100px;
+	width: 300px;
+}
